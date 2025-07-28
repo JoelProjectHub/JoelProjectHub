@@ -25,7 +25,7 @@
 - **Other:** Git · Microsoft 365 · Excel · Statistical Analysis  
 
 ## 🎓 Education
-- 🎓 **University of California, Berkeley** – Bachelors (1) Data Science & Molecular and (2) Molecular and Cell Biology  
+- 🎓 **University of California, Berkeley** – Dual Bachelors (1) Data Science (2) Molecular and Cell Biology  
 - 🏅 CREA Grant Recipient & Published Researcher in Neurobiology & Machine Learning  
 
 ## 📫 Connect With Me
