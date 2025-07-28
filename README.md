@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 📊 Currently working as a **Data Analyst** at **Amports (Benicia Port)**  
 - 🛠️ Building **Power BI dashboards**, automated KPIs, and integrating data pipelines to improve operational efficiency  
-- ⚙️ Experienced in **SQL, Power Apps, Power Automate, DAX**, and connecting complex datasets across multiple platforms  
+- ⚙️ Experienced in **SQL, Python, Power BI, Power Apps, Power Automate, DAX**, and connecting complex datasets across multiple platforms  
 - 🤖 Interested in combining **data science** and **machine learning** to create predictive analytics and automation tools  
 - 🌍 Open to relocation and remote opportunities in **data analytics, BI development, or data engineering**  
 
