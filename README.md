@@ -3,7 +3,7 @@
 💻 **Data Analyst & Business Intelligence Enthusiast** with a passion for data engineering, automation, and leveraging machine learning to build end-to-end BI solutions that drive smarter decision-making.  
 
 ## 🚀 About Me
-- 📊 Currently working as a **Port Data Analyst / BI Analyst** at **Amports (Benicia Port)**  
+- 📊 Currently working as a **Data Analyst** at **Amports (Benicia Port)**  
 - 🛠️ Building **Power BI dashboards**, automated KPIs, and integrating data pipelines to improve operational efficiency  
 - ⚙️ Experienced in **SQL, Power Apps, Power Automate, DAX**, and connecting complex datasets across multiple platforms  
 - 🤖 Interested in combining **data science** and **machine learning** to create predictive analytics and automation tools  
