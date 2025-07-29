@@ -10,9 +10,9 @@
 - 🌍 Open to relocation and remote opportunities in **data analytics, BI development, or data engineering**  
 
 ## 📂 Featured Projects
-- 📊 **AMPORTS Worker Productivity Dashbaord** – Interactive Power BI dashboard tracking worker productivity, identify trends in performance, and highlight operational bottlenecks.  
-- 🗂️ **AMPORTS Microsoft Power App – Audit Entry System** – Custom Power App + Power Automate workflow for vehicle audits
-- 📊 **AMPORTS Vehicle Audit Dashboard** - Interactive Power BI dashboard and audit entry system designed to track, analyze, and improve vehicle inspection processes.
+- 📊 **Worker Productivity Dashbaord** – Interactive Power BI dashboard tracking worker productivity, identify trends in performance, and highlight operational bottlenecks.  
+- 🗂️ **Microsoft Power App – Audit Entry System** – Custom Power App + Power Automate workflow for vehicle audits
+- 📊 **Vehicle Audit Dashboard** - Interactive Power BI dashboard and audit entry system designed to track, analyze, and improve vehicle inspection processes.
 - 🤖 **Advanced Machine Learning Regression Housing Model** – A machine learning project focused on predicting housing prices using advanced regression techniques, extensive feature engineering, and hyperparameter tuning.
 - 🏥 **Healthcare Database Optimization** – SQL-based ETL & query optimization for healthcare analytics  
 - 🚲 **Bike Sharing Demand Prediction** – EDA, regression models & visualization for demand forecasting  
