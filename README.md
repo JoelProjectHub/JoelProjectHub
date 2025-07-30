@@ -8,7 +8,8 @@
 - 📊 Currently working as a **Data Analyst** at **Amports (Benicia Port)**  
 - 🛠️ Building **Power BI dashboards**, automated KPIs, and integrating data pipelines to improve operational efficiency  
 - ⚙️ Experienced in **SQL, Python, Power BI, Power Apps, Power Automate, DAX**, and connecting complex datasets across multiple platforms  
-- 🤖 Interested in combining **data science** and **machine learning** to create predictive analytics and automation tools  
+- 🤖 Interested in combining **data science** and **machine learning** to create predictive analytics and automation tools
+- 🧠 Recent projects include a **convolutional neural network** for handwritten digit recognition (99% accuracy) and an exploratory data analysis project on the Pokémon dataset using Python.  
 - 🌍 Open to relocation and remote opportunities in **data analytics, BI development, or data engineering**  
 
 ## 📂 Featured Projects
