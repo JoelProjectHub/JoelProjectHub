@@ -20,7 +20,7 @@
 ## 🛠️ Tech & Tools
 - **Data & BI:** Power BI · DAX · Power Query · Power Apps · Power Automate  
 - **Programming:** Python · SQL · R · Java · C# · C 
-- **Data Science:** Pandas · EDA · Machine Learning · Predictive Modeling · Deep Learning 
+- **Data Science:** Pandas · EDA · Machine Learning · Predictive Modeling · Deep Learning · PyTorch · TensorFlow 
 - **Automation & ETL:** Dataverse · Sharepoint · APIs · Database Management · Query Optimization  
 - **Other:** Git · Microsoft 365 · Excel · Statistical Analysis  
 
