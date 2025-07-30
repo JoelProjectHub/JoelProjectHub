@@ -1,7 +1,8 @@
+<img width="3840" height="1200" alt="image" src="https://github.com/user-attachments/assets/b9459b37-633c-450d-9eca-2a3d280ee8f6" />
+
 # 👋 Hi, I'm Joel Perez  
 
 💻 **Data Analyst & Business Intelligence Enthusiast** with a passion for data engineering, automation, and leveraging machine learning to build end-to-end BI solutions that drive smarter decision-making.  
-<img width="3840" height="1200" alt="image" src="https://github.com/user-attachments/assets/b9459b37-633c-450d-9eca-2a3d280ee8f6" />
 
 ## 🚀 About Me
 - 📊 Currently working as a **Data Analyst** at **Amports (Benicia Port)**  
