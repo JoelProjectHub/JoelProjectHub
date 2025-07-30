@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Joel Perez  
 
+<img width="3840" height="1200" alt="image" src="https://github.com/user-attachments/assets/b9459b37-633c-450d-9eca-2a3d280ee8f6" />
+
+
 💻 **Data Analyst & Business Intelligence Enthusiast** with a passion for data engineering, automation, and leveraging machine learning to build end-to-end BI solutions that drive smarter decision-making.  
 
 ## 🚀 About Me
