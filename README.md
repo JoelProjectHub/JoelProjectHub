@@ -15,6 +15,8 @@
 - 📊 **Worker Productivity Dashbaord** – Interactive Power BI dashboard tracking worker productivity, identify trends in performance, and highlight operational bottlenecks.  
 - 🗂️ **Microsoft Power App – Audit Entry System** – Custom Power App + Power Automate workflow for vehicle audits
 - 📊 **Vehicle Audit Dashboard** - Interactive Power BI dashboard and audit entry system designed to track, analyze, and improve vehicle inspection processes.
+- 🎮 **Pokémon Dataset Exploratory Data Analysis (EDA)** – Comprehensive data visualization and statistical analysis of Pokémon attributes, including type distributions, stat correlations, and legendary vs. non-legendary comparisons.  
+- ✍️ **Handwritten Digit Classification (CNN)** – A convolutional neural network trained on the MNIST dataset with a custom data loader, achieving ~99% accuracy and including performance visualizations such as confusion matrix and training curves.
 - 🤖 **Advanced Machine Learning Regression Housing Model** – A machine learning project focused on predicting housing prices using advanced regression techniques, extensive feature engineering, and hyperparameter tuning.
 - 🏥 **Healthcare Database Optimization** – SQL-based ETL & query optimization for healthcare analytics  
 - 🚲 **Bike Sharing Demand Prediction** – EDA, regression models & visualization for demand forecasting  
