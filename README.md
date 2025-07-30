@@ -34,6 +34,7 @@
 - 🏅 CREA Grant Recipient & Published Researcher in Neurobiology & Machine Learning  
 
 ## 📫 Connect With Me
+- 📑 [Resume](https://docs.google.com/document/d/e/2PACX-1vR7YNMaO0OFwKvhmXUNjLFOT__jGw-fHITNUZY2YwRENt7dDIdjQWB2iQDJmzGh9LENtOzn850_2abJ/pub)
 - 🌐 [GitHub](https://github.com/JoelProjectHub)  
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
 - 📧 **JEBJobPortal@gmail.com**
