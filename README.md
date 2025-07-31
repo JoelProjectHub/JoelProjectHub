@@ -1,4 +1,4 @@
-<img width="3840" height="1200" alt="image" src="https://github.com/user-attachments/assets/b9459b37-633c-450d-9eca-2a3d280ee8f6" />
+<img width="1071" height="360" alt="image" src="https://github.com/user-attachments/assets/f17475fa-66ae-43d4-af29-dfaf11f87050" />
 
 # 👋 Hi, I'm Joel Perez  
 
