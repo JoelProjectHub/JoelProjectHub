@@ -13,7 +13,7 @@
 - 🌍 Open to relocation and remote opportunities in **data analytics, BI development, or data engineering**  
 
 ## 📂 Featured Projects
-- 📊 **Worker Productivity Dashbaord** – Interactive Power BI dashboard tracking worker productivity, identify trends in performance, and highlight operational bottlenecks.  
+- 📊 **Worker Productivity Dashboard** – Interactive Power BI dashboard tracking worker productivity, identify trends in performance, and highlight operational bottlenecks.  
 - 🗂️ **Microsoft Power App: Audit Entry System** – Custom Power App + Power Automate workflow for vehicle audits
 - 🎮 **Pokémon Dataset Exploratory Data Analysis (EDA)** – Comprehensive data visualization and statistical analysis of Pokémon attributes, including type distributions, stat correlations, and legendary vs. non-legendary comparisons.  
 - ✍️ **Handwritten Digit Classification (CNN)** – A convolutional neural network trained on the MNIST dataset with a custom data loader, achieving ~99% accuracy and including performance visualizations such as confusion matrix and training curves.
