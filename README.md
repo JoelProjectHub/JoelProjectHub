@@ -10,7 +10,7 @@
 - ⚙️ Experienced in **SQL, Python, Power BI, Power Apps, Power Automate, DAX**, and connecting complex datasets across multiple platforms  
 - 🤖 Interested in combining **data science** and **machine learning** to create predictive analytics and automation tools
 - 🧠 Recent projects include a **convolutional neural network** for handwritten digit recognition (99% accuracy) and an exploratory data analysis project on the Pokémon dataset using Python.  
-- 🌍 Open to relocation and remote opportunities in **data analytics, BI development, or data engineering**  
+- 🌍 Open to relocation and remote opportunities in **data analytics, BI development, data science, or data engineering**  
 
 ## 📂 Featured Projects
 - 📊 **Worker Productivity Dashboard** – Interactive Power BI dashboard tracking worker productivity, identify trends in performance, and highlight operational bottlenecks.  
